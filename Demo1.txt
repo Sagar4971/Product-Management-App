@@ -1,3 +1,7 @@
 public void show(){
 sop("Welcome To Bikkad IT")
 }
+
+
+
+Method
